@@ -1,0 +1,8 @@
+# Compiled C++ executable
+pattern
+
+# macOS debug symbols
+*.dSYM/
+
+# macOS system files
+.DS_Store
