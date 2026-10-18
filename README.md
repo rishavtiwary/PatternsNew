@@ -29,46 +29,6 @@ I'm using this repository to:
 | Pattern 5 | [`pattern5.cpp`](pattern5.cpp) | [View output](images/Pattern5.png) |
 | Pattern 6 | [`pattern6.cpp`](pattern6.cpp) | [View output](images/Pattern6.png) |
 
-## 🖼️ Pattern Gallery
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <strong>Pattern 1</strong><br><br>
-      <img src="images/Pattern1.png" width="320" alt="Pattern 1 output"><br>
-      <a href="pattern.cpp">View Source Code</a>
-    </td>
-    <td align="center" width="50%">
-      <strong>Pattern 2</strong><br><br>
-      <img src="images/Pattern2.png" width="320" alt="Pattern 2 output"><br>
-      <a href="pattern2.cpp">View Source Code</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <strong>Pattern 3</strong><br><br>
-      <img src="images/Pattern3.png" width="320" alt="Pattern 3 output"><br>
-      <a href="pattern3.cpp">View Source Code</a>
-    </td>
-    <td align="center" width="50%">
-      <strong>Pattern 4</strong><br><br>
-      <img src="images/Pattern4.png" width="320" alt="Pattern 4 output"><br>
-      <a href="pattern4.cpp">View Source Code</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <strong>Pattern 5</strong><br><br>
-      <img src="images/Pattern5.png" width="320" alt="Pattern 5 output"><br>
-      <a href="pattern5.cpp">View Source Code</a>
-    </td>
-    <td align="center" width="50%">
-      <strong>Pattern 6</strong><br><br>
-      <img src="images/Pattern6.png" width="320" alt="Pattern 6 output"><br>
-      <a href="pattern6.cpp">View Source Code</a>
-    </td>
-  </tr>
-</table>
 
 ## 🛠️ Technologies Used
 
