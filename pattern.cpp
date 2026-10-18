@@ -1,9 +1,21 @@
-#include <iostream>
+#include<iostream>
 using namespace std;
 
-int main() {
-    cout << "Hello, GitHub!" << endl;
-    cout << "I am learning Git and GitHub!" << endl;
-    
-    return 0;
+void Pattern1(int n){
+    for (int i = 1; i <= n; i++){
+        for (int j = 1; j <= n; j++){
+            cout << "*" << " ";
+        }
+        cout << endl;
+    }
+}
+
+int main(){
+    int t;
+    cin >> t;
+    for (int i = 0; i < t; i++){
+        int n;
+        cin >> n;
+        Pattern1(n);
+    }
 }
