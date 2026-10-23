@@ -28,6 +28,7 @@ I'm using this repository to:
 | Pattern 4 | [`pattern4.cpp`](pattern4.cpp) | [View output](images/Pattern4.png) |
 | Pattern 5 | [`pattern5.cpp`](pattern5.cpp) | [View output](images/Pattern5.png) |
 | Pattern 6 | [`pattern6.cpp`](pattern6.cpp) | [View output](images/Pattern6.png) |
+| Pattern 7 | [`pattern7.cpp`](pattern7.cpp) | [View output](images/Pattern7.png) |
 
 ##  Technologies Used
 
